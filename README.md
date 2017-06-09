@@ -1,6 +1,8 @@
 # UeberauthBlizzard
 
-**TODO: Add description**
+**Blizzard OAuth2 Strategy for Ueberauth**
+
+**Only basic auth/profile currently, SC2/WOW profiles not supported (but will be soon)**
 
 ## Installation
 
